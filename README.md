@@ -1,5 +1,5 @@
 # Matematik Jumboq Bot
 
-_Bu bot random(tasdifiy) tarzda foydalanuvchilarga jumboq yuboradi va uni  tekshiradi._
+_Bu bot random(tasodifiy) tarzda foydalanuvchilarga jumboq yuboradi va uni  tekshiradi._
 
-## Developer: [Arslonbek]('https://t.me/LiderBoy')
+## Developer: _[Arslonbek]('https://t.me/LiderBoy')_
